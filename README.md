@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boris920308&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boris920308&show_icons=true&theme=radical)
 
 <!--
 **boris920308/boris920308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
